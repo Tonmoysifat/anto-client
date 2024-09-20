@@ -1,6 +1,6 @@
 class BaseApi {
     static BaseURL() {
-        return "http://localhost:5414/api";
+        return "https://anto-backend.vercel.app/api";
     }
 }
 export default BaseApi
