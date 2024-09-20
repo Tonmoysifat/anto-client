@@ -25,3 +25,21 @@ body {
     text-wrap: balance;
   }
 }
+#my_modal_2,#my_modal_3{
+  width: 400px;
+}
+
+#my_modal_2 input ,#my_modal_3 input{
+  background-color: #d0cece3b;
+}
+#my_modal_2 input::placeholder ,#my_modal_3 input::placeholder{
+  color: #0a0a0a;
+}
+.card{
+  background-color: #050505;
+  border: 1px solid #141414;
+}
+.card img{
+  width: 126px;
+  height: 98px;
+}
